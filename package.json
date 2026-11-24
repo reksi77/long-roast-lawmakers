@@ -1,0 +1,1 @@
+{"description":"One satirical sentence roasting a lawmaker who regulates AI, crypto and the internet but cannot convert a file to PDF.","license":"MIT","main":"main.ts","name":"long-roast-lawmakers","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
